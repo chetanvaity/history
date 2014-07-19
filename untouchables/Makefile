@@ -1,4 +1,4 @@
-all: untouchables.dvi untouchables.pdf
+all: untouchables.pdf
 
 untouchables.dvi: untouchables.tex
 	latex untouchables

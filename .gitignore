@@ -1,0 +1,8 @@
+# Ignore all temporary TeX files
+*.aux
+*.bbl
+*.blg
+*.dvi
+*.log
+*.pdf
+*.ps
