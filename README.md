@@ -1,4 +1,4 @@
 history
 =======
 
-History related articles etc
+History/Anthropology related articles etc
